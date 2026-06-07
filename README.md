@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A blazing-fast multi-threaded TCP/UDP port scanner leveraging Rust's asynchronous runtime.
+  name: rust-port-scanner version: 1.0 type: Repository author: VarshuAi description: >   A blazing-fast multi-threaded TCP/UDP port scanner leveraging Rust's asynchronous runtime. primary_tech: Rust
 primary_tech: Rust
 ```
 
